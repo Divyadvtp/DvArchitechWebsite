@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DvArchitech_react/static/css/main.16a2e890.chunk.css",
+    "main.js": "/DvArchitech_react/static/js/main.00f38d44.chunk.js",
+    "main.js.map": "/DvArchitech_react/static/js/main.00f38d44.chunk.js.map",
+    "runtime-main.js": "/DvArchitech_react/static/js/runtime-main.3efe2772.js",
+    "runtime-main.js.map": "/DvArchitech_react/static/js/runtime-main.3efe2772.js.map",
+    "static/js/2.383444d6.chunk.js": "/DvArchitech_react/static/js/2.383444d6.chunk.js",
+    "static/js/2.383444d6.chunk.js.map": "/DvArchitech_react/static/js/2.383444d6.chunk.js.map",
+    "static/js/3.68e2a961.chunk.js": "/DvArchitech_react/static/js/3.68e2a961.chunk.js",
+    "static/js/3.68e2a961.chunk.js.map": "/DvArchitech_react/static/js/3.68e2a961.chunk.js.map",
+    "index.html": "/DvArchitech_react/index.html",
+    "static/css/main.16a2e890.chunk.css.map": "/DvArchitech_react/static/css/main.16a2e890.chunk.css.map",
+    "static/js/2.383444d6.chunk.js.LICENSE.txt": "/DvArchitech_react/static/js/2.383444d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3efe2772.js",
+    "static/js/2.383444d6.chunk.js",
+    "static/css/main.16a2e890.chunk.css",
+    "static/js/main.00f38d44.chunk.js"
+  ]
+}
